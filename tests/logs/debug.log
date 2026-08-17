@@ -1,0 +1,508 @@
+{
+    "timestamp": "2026-08-16T02:53:31.238Z",
+    "localTime": "2026-08-16 10:53:31",
+    "会话列表": {
+        "total": 5,
+        "todayCount": 1,
+        "sessions": [
+            {
+                "index": 0,
+                "id": "session-e3e9a95d-31d9-4479-ba83-0b47f89a243a",
+                "title": "创建一个写有随机笑话的文件",
+                "updatedAt": 1786847418350,
+                "updatedAtLocal": "2026-08-16 10:30:18",
+                "isToday": true
+            },
+            {
+                "index": 1,
+                "id": "session-f7d759fb-2040-4ef5-8341-4f1f34eb03d2",
+                "title": "44523",
+                "updatedAt": 1786762062907,
+                "updatedAtLocal": "2026-08-15 10:47:42",
+                "isToday": false
+            },
+            {
+                "index": 2,
+                "id": "session-e7f74c11-b0e1-484e-8030-f25a96fb7226",
+                "title": "44523",
+                "updatedAt": 1786760486064,
+                "updatedAtLocal": "2026-08-15 10:21:26",
+                "isToday": false
+            },
+            {
+                "index": 3,
+                "id": "session-07004209-6bad-4f44-87d2-fd896802b50f",
+                "title": "Greet Ada using greet tool",
+                "updatedAt": 1786694475836,
+                "updatedAtLocal": "2026-08-14 16:01:15",
+                "isToday": false
+            },
+            {
+                "index": 4,
+                "id": "session-15118516-7213-4f0f-b2c0-0ee38d4bba39",
+                "title": "Summarize repository and identify packages.",
+                "updatedAt": 1786680554233,
+                "updatedAtLocal": "2026-08-14 12:09:14",
+                "isToday": false
+            }
+        ],
+        "earliestToday": {
+            "timestamp": 1786847418350,
+            "localTime": "2026-08-16 10:30:18"
+        }
+    },
+    "当前会话消息": {
+        "nodeCount": 79,
+        "todayMessageCount": 5,
+        "messages": [
+            {
+                "time": 1786765504233,
+                "timeLocal": "2026-08-15 11:45:04",
+                "kind": "user",
+                "seq": 7,
+                "isToday": false
+            },
+            {
+                "time": 1786765504234,
+                "timeLocal": "2026-08-15 11:45:04",
+                "kind": "context",
+                "seq": 8,
+                "isToday": false
+            },
+            {
+                "time": 1786765504234,
+                "timeLocal": "2026-08-15 11:45:04",
+                "kind": "context",
+                "seq": 9,
+                "isToday": false
+            },
+            {
+                "time": 1786765508249,
+                "timeLocal": "2026-08-15 11:45:08",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786765511013,
+                "timeLocal": "2026-08-15 11:45:11",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786765524717,
+                "timeLocal": "2026-08-15 11:45:24",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786765526476,
+                "timeLocal": "2026-08-15 11:45:26",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786765526477,
+                "timeLocal": "2026-08-15 11:45:26",
+                "kind": "turn-tail",
+                "seq": 936,
+                "isToday": false
+            },
+            {
+                "time": 1786766684797,
+                "timeLocal": "2026-08-15 12:04:44",
+                "kind": "user",
+                "seq": 942,
+                "isToday": false
+            },
+            {
+                "time": 1786766684800,
+                "timeLocal": "2026-08-15 12:04:44",
+                "kind": "turn-error",
+                "seq": 944,
+                "isToday": false
+            },
+            {
+                "time": 1786766684800,
+                "timeLocal": "2026-08-15 12:04:44",
+                "kind": "turn-tail",
+                "seq": 944,
+                "isToday": false
+            },
+            {
+                "time": 1786766695735,
+                "timeLocal": "2026-08-15 12:04:55",
+                "kind": "user",
+                "seq": 949,
+                "isToday": false
+            },
+            {
+                "time": 1786766695737,
+                "timeLocal": "2026-08-15 12:04:55",
+                "kind": "turn-error",
+                "seq": 951,
+                "isToday": false
+            },
+            {
+                "time": 1786766695737,
+                "timeLocal": "2026-08-15 12:04:55",
+                "kind": "turn-tail",
+                "seq": 951,
+                "isToday": false
+            },
+            {
+                "time": 1786766738541,
+                "timeLocal": "2026-08-15 12:05:38",
+                "kind": "user",
+                "seq": 956,
+                "isToday": false
+            },
+            {
+                "time": 1786766738542,
+                "timeLocal": "2026-08-15 12:05:38",
+                "kind": "turn-error",
+                "seq": 958,
+                "isToday": false
+            },
+            {
+                "time": 1786766738542,
+                "timeLocal": "2026-08-15 12:05:38",
+                "kind": "turn-tail",
+                "seq": 958,
+                "isToday": false
+            },
+            {
+                "time": 1786766996032,
+                "timeLocal": "2026-08-15 12:09:56",
+                "kind": "user",
+                "seq": 964,
+                "isToday": false
+            },
+            {
+                "time": 1786766998287,
+                "timeLocal": "2026-08-15 12:09:58",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767030420,
+                "timeLocal": "2026-08-15 12:10:30",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767031834,
+                "timeLocal": "2026-08-15 12:10:31",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767032964,
+                "timeLocal": "2026-08-15 12:10:32",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767032965,
+                "timeLocal": "2026-08-15 12:10:32",
+                "kind": "turn-tail",
+                "seq": 1405,
+                "isToday": false
+            },
+            {
+                "time": 1786767254721,
+                "timeLocal": "2026-08-15 12:14:14",
+                "kind": "user",
+                "seq": 1411,
+                "isToday": false
+            },
+            {
+                "time": 1786767256311,
+                "timeLocal": "2026-08-15 12:14:16",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767296384,
+                "timeLocal": "2026-08-15 12:14:56",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767297282,
+                "timeLocal": "2026-08-15 12:14:57",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767298824,
+                "timeLocal": "2026-08-15 12:14:58",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767300465,
+                "timeLocal": "2026-08-15 12:15:00",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767301687,
+                "timeLocal": "2026-08-15 12:15:01",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767302891,
+                "timeLocal": "2026-08-15 12:15:02",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767304249,
+                "timeLocal": "2026-08-15 12:15:04",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767305863,
+                "timeLocal": "2026-08-15 12:15:05",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767305864,
+                "timeLocal": "2026-08-15 12:15:05",
+                "kind": "turn-tail",
+                "seq": 2210,
+                "isToday": false
+            },
+            {
+                "time": 1786767379109,
+                "timeLocal": "2026-08-15 12:16:19",
+                "kind": "user",
+                "seq": 2215,
+                "isToday": false
+            },
+            {
+                "time": 1786767380579,
+                "timeLocal": "2026-08-15 12:16:20",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767442003,
+                "timeLocal": "2026-08-15 12:17:22",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767467953,
+                "timeLocal": "2026-08-15 12:17:47",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767469351,
+                "timeLocal": "2026-08-15 12:17:49",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767470348,
+                "timeLocal": "2026-08-15 12:17:50",
+                "kind": "turn-tail",
+                "seq": 2631,
+                "isToday": false
+            },
+            {
+                "time": 1786767470348,
+                "timeLocal": "2026-08-15 12:17:50",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767834411,
+                "timeLocal": "2026-08-15 12:23:54",
+                "kind": "user",
+                "seq": 2636,
+                "isToday": false
+            },
+            {
+                "time": 1786767835654,
+                "timeLocal": "2026-08-15 12:23:55",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767838569,
+                "timeLocal": "2026-08-15 12:23:58",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767840464,
+                "timeLocal": "2026-08-15 12:24:00",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767840465,
+                "timeLocal": "2026-08-15 12:24:00",
+                "kind": "turn-tail",
+                "seq": 2986,
+                "isToday": false
+            },
+            {
+                "time": 1786767884847,
+                "timeLocal": "2026-08-15 12:24:44",
+                "kind": "user",
+                "seq": 2991,
+                "isToday": false
+            },
+            {
+                "time": 1786767887602,
+                "timeLocal": "2026-08-15 12:24:47",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786767887603,
+                "timeLocal": "2026-08-15 12:24:47",
+                "kind": "turn-tail",
+                "seq": 3178,
+                "isToday": false
+            },
+            {
+                "time": 1786767905123,
+                "timeLocal": "2026-08-15 12:25:05",
+                "kind": "user",
+                "seq": 3183,
+                "isToday": false
+            },
+            {
+                "time": 1786767908189,
+                "timeLocal": "2026-08-15 12:25:08",
+                "kind": "turn-tail",
+                "seq": 3433,
+                "isToday": false
+            },
+            {
+                "time": 1786767908189,
+                "timeLocal": "2026-08-15 12:25:08",
+                "kind": "assistant-step",
+                "isToday": false
+            },
+            {
+                "time": 1786847418350,
+                "timeLocal": "2026-08-16 10:30:18",
+                "kind": "user",
+                "seq": 3439,
+                "isToday": true
+            },
+            {
+                "time": 1786847419469,
+                "timeLocal": "2026-08-16 10:30:19",
+                "kind": "assistant-step",
+                "isToday": true
+            },
+            {
+                "time": 1786847421232,
+                "timeLocal": "2026-08-16 10:30:21",
+                "kind": "assistant-step",
+                "isToday": true
+            },
+            {
+                "time": 1786847422549,
+                "timeLocal": "2026-08-16 10:30:22",
+                "kind": "assistant-step",
+                "isToday": true
+            },
+            {
+                "time": 1786847422550,
+                "timeLocal": "2026-08-16 10:30:22",
+                "kind": "turn-tail",
+                "seq": 3742,
+                "isToday": true
+            }
+        ],
+        "turnTimings": [
+            {
+                "turn": 1,
+                "startTime": 1786765504213,
+                "startTimeLocal": "2026-08-15 11:45:04",
+                "endTime": "2026-08-15 11:45:26"
+            },
+            {
+                "turn": 2,
+                "startTime": 1786766684748,
+                "startTimeLocal": "2026-08-15 12:04:44",
+                "endTime": "2026-08-15 12:04:44"
+            },
+            {
+                "turn": 3,
+                "startTime": 1786766695721,
+                "startTimeLocal": "2026-08-15 12:04:55",
+                "endTime": "2026-08-15 12:04:55"
+            },
+            {
+                "turn": 4,
+                "startTime": 1786766738529,
+                "startTimeLocal": "2026-08-15 12:05:38",
+                "endTime": "2026-08-15 12:05:38"
+            },
+            {
+                "turn": 5,
+                "startTime": 1786766995972,
+                "startTimeLocal": "2026-08-15 12:09:55",
+                "endTime": "2026-08-15 12:10:32"
+            },
+            {
+                "turn": 6,
+                "startTime": 1786767254655,
+                "startTimeLocal": "2026-08-15 12:14:14",
+                "endTime": "2026-08-15 12:15:05"
+            },
+            {
+                "turn": 7,
+                "startTime": 1786767379097,
+                "startTimeLocal": "2026-08-15 12:16:19",
+                "endTime": "2026-08-15 12:17:50"
+            },
+            {
+                "turn": 8,
+                "startTime": 1786767834399,
+                "startTimeLocal": "2026-08-15 12:23:54",
+                "endTime": "2026-08-15 12:24:00"
+            },
+            {
+                "turn": 9,
+                "startTime": 1786767884835,
+                "startTimeLocal": "2026-08-15 12:24:44",
+                "endTime": "2026-08-15 12:24:47"
+            },
+            {
+                "turn": 10,
+                "startTime": 1786767905111,
+                "startTimeLocal": "2026-08-15 12:25:05",
+                "endTime": "2026-08-15 12:25:08"
+            },
+            {
+                "turn": 11,
+                "startTime": 1786847418302,
+                "startTimeLocal": "2026-08-16 10:30:18",
+                "endTime": "2026-08-16 10:30:22"
+            }
+        ],
+        "earliestMessageToday": {
+            "timestamp": 1786847418302,
+            "localTime": "2026-08-16 10:30:18"
+        }
+    },
+    "最终决策": {
+        "earliestMessageToday": "2026-08-16 10:30:18",
+        "earliestSessionToday": "2026-08-16 10:30:18",
+        "localWorkStart": "2026-08-16 08:08:15",
+        "effectiveWorkStart": "2026-08-16 08:08:15",
+        "elapsedMs": 9916238
+    }
+}
