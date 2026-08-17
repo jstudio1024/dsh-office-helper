@@ -1,0 +1,33 @@
+{
+    "timestamp": "2026-08-16T12:28:09.528Z",
+    "localTime": "2026-08-16 20:28:09",
+    "状态": {
+        "isIdle": false,
+        "idleDurationMin": 0,
+        "dataSource": "first_mouse_keyboard_interaction"
+    },
+    "会话列表": {
+        "total": 5,
+        "todayCount": 1
+    },
+    "最终决策": {
+        "effectiveWorkStart": "2026-08-16 11:32:00",
+        "totalWorkMs": 2956824,
+        "totalIdleMs": 22924059,
+        "contWorkMs": 956749,
+        "contWorkStart": "2026-08-16 20:11:52"
+    },
+    "每日统计": {
+        "day": "2026-08-16",
+        "workStart": 1786851120444,
+        "firstInteraction": 1786851120444,
+        "totalWorkMs": 2956824,
+        "totalIdleMs": 22924059,
+        "contWorkMs": 956749,
+        "contWorkStart": 1786882312584,
+        "idleSessions": [],
+        "sessionCount": 1,
+        "messageCount": 15,
+        "updatedAt": 1786883289528
+    }
+}
