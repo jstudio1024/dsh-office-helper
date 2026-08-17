@@ -1,6 +1,10 @@
 {
   "name": "dsh-office-helper",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jstudio1024/dsh-office-helper.git"
+  },
   "description": "DSH web plugin: 办公助手 - 工作时间追踪、喝水提醒、休息提醒",
   "type": "module",
   "main": "lib/index.js",
